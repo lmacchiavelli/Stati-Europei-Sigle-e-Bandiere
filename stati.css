@@ -1,0 +1,34 @@
+.eu_code_it{background: url(it.png);}
+.eu_code_at{background: url(at.png);}
+.eu_code_be{background: url(be.png);}
+.eu_code_bg{background: url(bg.png);}
+.eu_code_cy{background: url(cy.png);}
+.eu_code_cz{background: url(cz.png);}
+.eu_code_de{background: url(de.png);}
+.eu_code_dk{background: url(dk.png);}
+.eu_code_ee{background: url(ee.png);}
+.eu_code_el{background: url(el.png);}
+.eu_code_es{background: url(es.png);}
+.eu_code_fi{background: url(fi.png);}
+.eu_code_fr{background: url(fr.png);}
+.eu_code_hr{background: url(hr.png);}
+.eu_code_hu{background: url(hu.png);}
+.eu_code_ie{background: url(ie.png);}
+.eu_code_lt{background: url(lt.png);}
+.eu_code_lu{background: url(lu.png);}
+.eu_code_lv{background: url(lv.png);}
+.eu_code_mt{background: url(mt.png);}
+.eu_code_nl{background: url(nl.png);}
+.eu_code_pl{background: url(pl.png);}
+.eu_code_pt{background: url(pt.png);}
+.eu_code_ro{background: url(ro.png);}
+.eu_code_se{background: url(se.png);}
+.eu_code_si{background: url(si.png);}
+.eu_code_sk{background: url(sk.png);}
+
+.eu_flag{
+    height: 40px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
